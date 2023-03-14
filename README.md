@@ -3,14 +3,17 @@
 [W-S-A-D && arrow keys]
 
 
+
 // CHANGE COLORS //
 
 [1-9]
 
 
+
 // FILL ALL //
 
 [n]
+
 
 
 // SAVE PROJECT //
