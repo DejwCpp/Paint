@@ -1,14 +1,10 @@
-// MOVEMENT //
-  [W-S-A-D && arrow keys]
+// MOVEMENT //   [W-S-A-D && arrow keys]
 
-// CHANGE COLORS //
-  [1-9]
+// CHANGE COLORS //   [1-9]
 
-// FILL ALL //
-  [n]
+// FILL ALL //   [n]
 
-// SAVE PROJECT //
-  [v]
+// SAVE PROJECT //   [v]
 
 
 #### IMPORTANT ####
