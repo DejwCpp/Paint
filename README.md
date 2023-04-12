@@ -4,7 +4,7 @@
 
 # It's a console application for creating pixel arts
 
-![Can't load the photo of paint in console](https://raw.githubusercontent.com/DejwCpp/Paint/master/console-img.png)
+![Can't load the photo of paint in console](https://raw.githubusercontent.com/DejwCpp/Paint/master/console.png)
 
 # You can then save them to a *.ppm file to open them in other app
 
